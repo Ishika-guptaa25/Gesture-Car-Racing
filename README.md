@@ -43,9 +43,7 @@ An interactive racing game controlled entirely by hand gestures using computer v
 
 *After losing all lives, the game ends. The player can restart the game by pressing **R**.*
 
-
-```
---- 
+ 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have:
