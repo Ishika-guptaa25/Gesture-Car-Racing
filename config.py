@@ -1,0 +1,72 @@
+"""
+Configuration file for Hand Gesture Car Racing Game
+Contains all game constants and settings
+"""
+
+# Screen settings
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Colors (RGB)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 100, 255)
+YELLOW = (255, 255, 0)
+GRAY = (128, 128, 128)
+DARK_GRAY = (64, 64, 64)
+ROAD_COLOR = (50, 50, 50)
+GRASS_COLOR = (34, 139, 34)
+LINE_COLOR = (255, 255, 255)
+
+# Car settings
+CAR_WIDTH = 50
+CAR_HEIGHT = 80
+CAR_SPEED = 300  # pixels per second
+CAR_MAX_SPEED = 500
+CAR_ACCELERATION = 200
+CAR_FRICTION = 100
+STEERING_SPEED = 250
+
+# Road settings
+ROAD_WIDTH = 400
+LANE_WIDTH = ROAD_WIDTH // 3
+LINE_WIDTH = 5
+LINE_HEIGHT = 40
+LINE_GAP = 40
+
+# Obstacle settings
+OBSTACLE_WIDTH = 50
+OBSTACLE_HEIGHT = 80
+OBSTACLE_SPEED = 200
+OBSTACLE_SPAWN_RATE = 1.5  # seconds
+MAX_OBSTACLES = 5
+
+# Gesture detection settings
+GESTURE_CONFIDENCE_THRESHOLD = 0.7
+HAND_DETECTION_CONFIDENCE = 0.5
+HAND_TRACKING_CONFIDENCE = 0.5
+
+# Gesture thresholds
+TILT_LEFT_THRESHOLD = -0.15
+TILT_RIGHT_THRESHOLD = 0.15
+PALM_FORWARD_THRESHOLD = 0.6  # Z-axis distance
+ACCELERATION_MULTIPLIER = 1.5
+
+# Camera settings
+CAMERA_WIDTH = 640
+CAMERA_HEIGHT = 480
+CAMERA_INDEX = 0
+
+# Game settings
+INITIAL_LIVES = 3
+SCORE_MULTIPLIER = 10
+COLLISION_COOLDOWN = 2.0  # seconds
+
+# Font sizes
+FONT_LARGE = 64
+FONT_MEDIUM = 48
+FONT_SMALL = 32
+FONT_TINY = 24
