@@ -45,7 +45,7 @@ An interactive racing game controlled entirely by hand gestures using computer v
 
 
 ```
-
+--- 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have:
