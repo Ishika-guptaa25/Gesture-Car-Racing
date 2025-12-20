@@ -27,45 +27,23 @@ An interactive racing game controlled entirely by hand gestures using computer v
 
 ## 🖼️ Screenshots
 
-### 🎮 Gesture-Based Control
 <img width="500" height="350" src="https://github.com/user-attachments/assets/3b62c7ad-1641-4817-b5e1-7ff75f1d52a2" />
 
 *The car is controlled using hand tilt for steering and a palm-forward gesture for acceleration, detected via MediaPipe.*
 
----
-
-### 🚗 Obstacle Avoidance
 <img width="500" height="350" src="https://github.com/user-attachments/assets/9a7f22c3-c784-4745-b74e-a71af85a02eb" />
 
 *The player avoids oncoming vehicles while speed and score update in real time.*
 
----
-
-### 🚧 Collision Event
 <img width="500" height="350" src="https://github.com/user-attachments/assets/2bc04eda-6ac3-42ef-b54d-f70e4924e979" />
 
 *A collision with another vehicle causes the player to lose one life.*
 
----
-
-### 🏁 Game Over & Restart
 <img width="500" height="350" src="https://github.com/user-attachments/assets/751153ba-5d72-4a3e-befc-be973ebb0ffd" />
 
 *After losing all lives, the game ends. The player can restart the game by pressing **R**.*
 
 
-```
-┌─────────────────────────────────────┐
-│  Score: 12,450      Lives: ❤️ ❤️ ❤️   │
-│  Distance: 124.5m   Speed: 75%     │
-├─────────────────────────────────────┤
-│              |     🚗    |          │
-│              |           |          │
-│              |     🚗    |          │
-│              |           |          │
-│              |     YOU   |          │
-│              └───────────┘          │
-└─────────────────────────────────────┘
 ```
 
 ## 📋 Prerequisites
