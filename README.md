@@ -26,14 +26,11 @@ An interactive racing game controlled entirely by hand gestures using computer v
 | **No hand** | Slow down |
 
 ## 🖼️ Screenshots
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3b62c7ad-1641-4817-b5e1-7ff75f1d52a2" /> 
-*The car is controlled using hand tilt (steering) and palm-forward gesture (acceleration) detected via MediaPipe.*
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9a7f22c3-c784-4745-b74e-a71af85a02eb" />
-*Player avoids oncoming vehicles while speed and score update in real time.*
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2bc04eda-6ac3-42ef-b54d-f70e4924e979" />
-*A collision with another vehicle causes the player to lose one life.*
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/751153ba-5d72-4a3e-befc-be973ebb0ffd" />
-*After losing all lives, the game ends and the player can restart the game.*
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3b62c7ad-1641-4817-b5e1-7ff75f1d52a2" /> *The car is controlled using hand tilt (steering) and palm-forward gesture (acceleration) detected via MediaPipe.*
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9a7f22c3-c784-4745-b74e-a71af85a02eb" />*Player avoids oncoming vehicles while speed and score update in real time.*
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2bc04eda-6ac3-42ef-b54d-f70e4924e979" />*A collision with another vehicle causes the player to lose one life.*
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/751153ba-5d72-4a3e-befc-be973ebb0ffd" />*After losing all lives, the game ends and the player can restart the game.*
+
 ```
 ┌─────────────────────────────────────┐
 │  Score: 12,450      Lives: ❤️ ❤️ ❤️   │
