@@ -8,7 +8,6 @@ from car import Car
 from obstacles import ObstacleManager
 from config import *
 
-
 class Game:
     def __init__(self, screen):
         """Initialize the game"""
