@@ -7,7 +7,6 @@ import pygame
 import math
 from config import *
 
-
 class Car:
     def __init__(self, x, y):
         """Initialize the car"""
